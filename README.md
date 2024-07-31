@@ -8,7 +8,6 @@
 
 - **programming languages:** javascript, typescript, java, python
 - **frameworks:** react, next.js, node.js
-- **tools:** git, docker, kubernetes
 - **others:** trading, financial markets no doubt
 #### more to learn obviously!!!
 
