@@ -1,16 +1,28 @@
-## Hi there 👋
+# what do you know, its david oh 👋
 
-<!--
-**dkoh2018/dkoh2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌍 i'm based in chicago
+- 🕒 utc -05:00
+- 🌐 [itsdavidoh.com](https://itsdavidoh.com)
 
-Here are some ideas to get you started:
+## my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **programming languages:** javascript, typescript, java, python
+- **frameworks:** react, next.js, node.js
+- **tools:** git, docker, kubernetes
+- **others:** trading, financial markets
+
+## popular repositories
+
+- [java-data-structures-algorithms](https://github.com/dkoh2018/java-data-structures-algorithms)
+- [northwesternrejects](https://github.com/dkoh2018/northwesternrejects)
+- [itsdavidoh.com](https://github.com/dkoh2018/itsdavidoh.com)
+- [acegpt-generatepracticeexams](https://github.com/dkoh2018/acegpt-generatepracticeexams)
+- [open_gymnasium_rl](https://github.com/dkoh2018/open_gymnasium_rl)
+- [robotics](https://github.com/dkoh2018/robotics)
+
+## connect with me
+
+- 📧 [email](mailto:davidoh2018@gmail.com)
+- 🐦 [twitter](https://twitter.com/0x_nietoh)
+- 💼 [linkedin](https://www.linkedin.com/in/david-k-oh/)
+- 🐙 [github](https://github.com/dkoh2018)
