@@ -3,6 +3,8 @@
 - 🌍 i'm based in chicago
 - 🕒 utc -05:00
 - 🌐 [itsdavidoh.com](https://itsdavidoh.com)
+- 🚀 getting cracked in backend `inProgress()`... [Boot.dev profile](https://www.boot.dev/u/smallhand80)
+
 
 ## my skills
 
